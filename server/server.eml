@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jackson-datatype-jdk8-2.7.5.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/Downloads/jackson-datatype-jdk8-2.7.5-sources.jar!/"/>
+	</lib>
+	<levels>
+		<level name="libs" value="project"/>
+	</levels>
+</component>

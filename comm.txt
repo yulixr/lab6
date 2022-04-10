@@ -1,0 +1,4 @@
+help
+show
+filter_by_oscars_count 55
+info

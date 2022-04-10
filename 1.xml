@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <id>1341099897</id>
+        <name>dasd</name>
+        <coordinates>
+            <x>2</x>
+            <y>4.0</y>
+        </coordinates>
+        <height>5</height>
+        <eyeColor>RED</eyeColor>
+        <hairColor>ORANGE</hairColor>
+        <nationality>NORTH_KOREA</nationality>
+        <location>
+            <x>3</x>
+            <y>3.0</y>
+            <name>rewr</name>
+        </location>
+    </person>
+</persons>
